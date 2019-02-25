@@ -12,6 +12,7 @@ def main():
 
 
 def calc(args):
+    print("Some print command")
     if args.operation == 'add':
         return args.x + args.y
     elif args.operation == 'sub':
