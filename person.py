@@ -15,7 +15,7 @@ class Person:
 
 def main():
     people = [
-        Person('Mya'),
+        Person('Wayne'),
         Person('Jill'),
         Person('Peter'),
         Person('Ali'),
